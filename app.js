@@ -19,8 +19,7 @@ var dir = __dirname  + '/Tribute page/';
     //     res.end();
     // // res.write(dir + 'css/bootstrap.css');
     // }
-  //   if(req.url.indexOf('app.js') != -1){
-   //
+  //   if(req.url.indexOf('app.js') != -1){   //
   //    res.writeHead(200 , {'content-type' : 'text/javscript'});
   //    var ht = fs.readFileSync(dir +'app.js' );
   //     console.log("ads");
